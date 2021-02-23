@@ -34,6 +34,8 @@ The analyses use python and there is a jupyter notebook in case you prefer jupyt
 
 [![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/)
 
+As mentioned, 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/BrainonSilicon/SteinmetzAnalyses/HEAD)
 
 
 ## Get Started
