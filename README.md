@@ -34,14 +34,18 @@ The analyses use python and there is a jupyter notebook in case you prefer jupyt
 
 [![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/)
 
-As mentioned, 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/BrainonSilicon/SteinmetzAnalyses/HEAD)
+As mentioned, I'm also using Binder with this repo. Binder builds a docker image and allows me to share the code in the form of an interactive notebook. By building and image it means that the environment it set up with all the dependencies needed to run the code. As "the set up" can often be the biggest hurdle to diving into a project, Binder offers a really cool way to do things using cloud infrastructure. You can read more about Binder [here](https://mybinder.readthedocs.io/en/latest/) 
+
+Click the sheild to launch ths repo's Binder.
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/BrainonSilicon/SteinmetzAnalyses/main)
 
 
 ## Get Started
 
-:star2: There's a few entry point
-
+:star2: There's a few entry points:
+- you can click the git sheild above to launch Binder
+- you can fork the repo or open issues and run it yourself
+- or you can reach out and say hi! 
 
 
 ## Tests
@@ -49,7 +53,6 @@ As mentioned,
 The jupyter notebook currently has tests implemented in the one file, however some next steps are to separate out the analyses and the tests. If you feel knowledgeable about this then feel free to open an issue! 
 The goal is to move away from writing analyses just to publish a paper and towards good software pratices (such as TDD). 
 
-Inline-style: 
 ![Good Code](https://imgs.xkcd.com/comics/good_code.png "Good Code from xkcd")
 
 
